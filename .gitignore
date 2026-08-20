@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+env/
+venv/
+.venv/
+
+# Environment Variables & Keys
+.env
+.env.local
+
+# Archives
+*.zip
+*.tar.gz
+
+# IDE config
+.vscode/
+.idea/
